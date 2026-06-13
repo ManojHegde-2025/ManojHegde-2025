@@ -21,8 +21,6 @@
 
 <br>
 
-<img align="right" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlxeHc5bG5zMm8zaGhlMW55NDZkd29mNTBoNXN0dHdrNjc1ZDY0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="coding-gif" />
-
 ## About me
 - 🎓 B.Tech — 1st Year Computer Science and Engineering, NMAMIT (2025-Present).
 - 💻 Tech enthusiast with hands-on experience building end-to-end full-stack web applications using the **MERN** stack.
@@ -90,13 +88,3 @@
 - Portfolio: [www.reallygreatsite.com](http://www.reallygreatsite.com)
 
 ---
-
-### Extras
-
-<div align="center">
-
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=[Your GitHub Username]&theme=dracula&hide_border=true" alt="streak-stats"/>
-  </a>
-
-</div>
