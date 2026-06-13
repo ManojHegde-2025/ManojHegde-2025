@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/manoj-m-hegde-3a21a0373/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="linkedin-badge" style="border-radius:8px;" />
   </a>
-  <a href="https://www.instagram.com/manoj_hegde__?igsh=Mmxpb2JybTJra3ln"
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="instagram-badge" style="border-radius:8px;" />
+   <a href="https://www.instagram.com/manoj_hegde__?igsh=Mmxpb2JybTJra3ln">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-badge"/>
   </a>
   
 </p>
