@@ -2,10 +2,10 @@
 <h3 align="center">B.Tech • 1st Year CSE @ NMAMIT — Full-stack Developer & Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/[ManojHegde-2025]">
+  <a href="https://github.com/ManojHegde-2025">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="github-badge" style="border-radius:8px;" />
   </a>
-  <a href="(https://www.linkedin.com/in/manoj-m-hegde-3a21a0373/">
+  <a href="https://www.linkedin.com/in/manoj-m-hegde-3a21a0373/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="linkedin-badge" style="border-radius:8px;" />
   </a>
   
