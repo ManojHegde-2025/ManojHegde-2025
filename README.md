@@ -80,8 +80,8 @@
 ---
 
 ## Want to get in touch?
-- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/[Your LinkedIn Profile])
-- GitHub: [[Your GitHub Username]](https://github.com/[Your GitHub Username])
+- LinkedIn: [manoj-m-hegde-3a21a0373/](https://www.linkedin.com/in/manoj-m-hegde-3a21a0373/)
+- GitHub: [[ManojHegde-2025]](https://github.com/[ManojHegde-2025])
 - Portfolio: [www.reallygreatsite.com](http://www.reallygreatsite.com)
 
 ---
