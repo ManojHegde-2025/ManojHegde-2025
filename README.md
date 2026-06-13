@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manoj M Hegde</h1>
-<h3 align="center">B.Tech • 1st Year CSE @ NMAMIT — Full-stack Developer & Tech Enthusiast</h3>
+<h3 align="center">B.Tech • 1st Year CSE Student @ NMAMIT — Full-stack Developer & Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/ManojHegde-2025">
