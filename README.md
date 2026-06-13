@@ -79,7 +79,7 @@
 
 ## Want to get in touch?
 - LinkedIn: [Manoj-Hegde](https://www.linkedin.com/in/manoj-m-hegde-3a21a0373/)
-- GitHub:   [ManojHegde](https://github.com/[ManojHegde-2025])
+- GitHub:   [ManojHegde](https://github.com/ManojHegde-2025)
 - Portfolio: [MyPortfolio](https://my-portfolio-manoj-hegde.vercel.app)
 
 ---
