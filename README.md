@@ -15,9 +15,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[ManojHegde-2025]&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="top-langs"/>
-</div> 
 
 <br>
 
