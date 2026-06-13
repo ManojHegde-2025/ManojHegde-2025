@@ -80,8 +80,8 @@
 ---
 
 ## Want to get in touch?
-- LinkedIn: [manoj-m-hegde-3a21a0373/](https://www.linkedin.com/in/manoj-m-hegde-3a21a0373/)
-- GitHub: [[ManojHegde-2025]](https://github.com/[ManojHegde-2025])
+- LinkedIn: [Manoj-Hegde](https://www.linkedin.com/in/manoj-m-hegde-3a21a0373/)
+- GitHub: [[ManojHegde]](https://github.com/[ManojHegde-2025])
 - Portfolio: [www.reallygreatsite.com](http://www.reallygreatsite.com)
 
 ---
